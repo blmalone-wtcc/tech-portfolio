@@ -5,10 +5,9 @@ title: Projects
 
 Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+PROJECT: [Tech Portfolio](https://blmalone-wtcc.github.io/tech-portfolio/)
 
-![Sail out to sea and do new things - Grace Hopper](./assets/rosemary.png)
+A CSC256 exercise to create a GitHub portfolio.
+
+![Sail out to sea and do new things - Grace Hopper](./assets/portfolio ss 1.png)
